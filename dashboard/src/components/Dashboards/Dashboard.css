@@ -1,0 +1,23 @@
+.dashboard-container {
+  width: 90%;
+  margin: auto;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.charts {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.dashboard-container h2 {
+  margin-bottom: 20px;
+}
+
+@media (max-width: 1024px) {
+  .charts {
+    flex-direction: column;
+    gap: 20px;
+  }
+}
