@@ -27,8 +27,8 @@ Success Rate Pie Chart: Displays the success rate of each space company.
 
 ## Setup
 Clone the repository:
-```npm install```
-```npm run start```
+### ```npm install```
+### ```npm run start```
 
 ##Dependencies
 react
